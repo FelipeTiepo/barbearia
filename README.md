@@ -25,7 +25,7 @@ https://github.com/FelipeTiepo/barbearia
     <li>'Figma'</li>
     <li>'Ux e UI'</li>
  <ul> <br>
-:brain: <h2>Desenvolvedor do Projeto</h2>
+<h2> :brain: Desenvolvedor do Projeto</h2>
 
 <h3><strong>Felipe Tiepo</strong></h3>
 
